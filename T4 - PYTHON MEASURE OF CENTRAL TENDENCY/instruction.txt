@@ -1,0 +1,8 @@
+1. Importlah dataset "Data Statistika Nilai 40 siswa.csv" (terlampir) dengan menggunakan Google Colab 
+2. Tampilkan dataset yang telah diimport di Google Colab
+3. Import library yang dibutuhkan untuk menghitung nilai central (Pandas dan Matplotlib.pyplot)
+4. Lakukan perhitungan nilai Mean, Median, Modus sesuai dataset yang sudah diimport
+5. Setiap variabel yang dicreate, ditambahkan 4 digit NIM di belakang. Misal variabel data , maka didefinisikan dengan nama variabel = Data5789
+6. Visualisasikan setiap nilai yang sudah dihitung menggunakan Diagram histogram (contoh output terlampir)
+
+Setiap step yang dilakukan dicapture Code dan Outputnya

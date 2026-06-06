@@ -1,0 +1,8 @@
+1. Importlah dataset "Data Statistika Nilai 40 siswa.csv" (terlampir) dengan menggunakan Google Colab 
+2. Tampilkan dataset yang telah diimport di Google Colab
+3. Import library yang dibutuhkan untuk menghitung nilai dispersi
+4. Lakukan perhitungan nilai dispersi 
+5. Setiap variabel yang dicreate, ditambahkan 4 digit NIM di belakang.
+Misal variabel data , maka didefinisikan dengan nama variabel = Data5789
+
+Setiap step yang dilakukan dicapture Code dan Outputnya
